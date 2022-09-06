@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/Difj.gif)
+![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)
 <h1 align="center">Hi 👋, I'm Bipul Sarkar</h1>
 <h3 align="center">I'm a beginner learning basic coding and software developing.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
