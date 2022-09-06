@@ -1,7 +1,7 @@
-[![MasterHead](https://www.vecteezy.com/free-vector/coding-banner)](https://rishavchanda.io)
+[![MasterHead](https://www.vecteezy.com/free-vector/coding-banner)]
 <h1 align="center">Hi 👋, I'm Bipul Sarkar</h1>
 <h3 align="center">I'm a begginer learning basic coding and software developing.</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/567523990538356835/">
+<img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipulsarkar26&label=Profile%20views&color=0e75b6&style=flat" alt="bipulsarkar26" /> </p>
 
